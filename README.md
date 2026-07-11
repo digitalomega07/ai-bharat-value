@@ -55,7 +55,7 @@ Material numbers should have two sources where practicable. When sources conflic
 ## Quick start
 
 ```bash
-git clone https://github.com/SoumyaAnand2219/ai-bharat-value.git
+git clone https://github.com/digitalomega07/ai-bharat-value.git
 cd ai-bharat-value
 ./scripts/install-codex-skills.sh
 ```
