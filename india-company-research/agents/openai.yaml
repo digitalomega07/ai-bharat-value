@@ -1,0 +1,4 @@
+interface:
+  display_name: "India Company Research"
+  short_description: "India-focused, source-backed india company research"
+  default_prompt: "Use india-company-research for an Indian listed company or universe, with an explicit as-of date."

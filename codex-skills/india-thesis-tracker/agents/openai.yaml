@@ -1,0 +1,4 @@
+interface:
+  display_name: "India Thesis Tracker"
+  short_description: "India-focused, source-backed india thesis tracker"
+  default_prompt: "Use india-thesis-tracker for an Indian listed company or universe, with an explicit as-of date."

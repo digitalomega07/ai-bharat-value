@@ -1,0 +1,4 @@
+interface:
+  display_name: "India Industry Funnel"
+  short_description: "India-focused, source-backed india industry funnel"
+  default_prompt: "Use india-industry-funnel for an Indian listed company or universe, with an explicit as-of date."

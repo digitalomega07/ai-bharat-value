@@ -1,0 +1,4 @@
+interface:
+  display_name: "India Quality Screen"
+  short_description: "India-focused, source-backed india quality screen"
+  default_prompt: "Use india-quality-screen for an Indian listed company or universe, with an explicit as-of date."

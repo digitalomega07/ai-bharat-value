@@ -1,0 +1,4 @@
+interface:
+  display_name: "India Earnings Review"
+  short_description: "India-focused, source-backed india earnings review"
+  default_prompt: "Use india-earnings-review for an Indian listed company or universe, with an explicit as-of date."
